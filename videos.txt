@@ -1,0 +1,5 @@
+Pelicula,El Padrino,175,9.2,Drama
+Episodio de Serie,Breaking Bad,60,9.5,Terror
+Pelicula,El Caballero Oscuro,152,9.0,Accion
+Pelicula,La La Land,128,8.0,Musical
+Episodio de Serie,Friends,22,8.9,Drama
